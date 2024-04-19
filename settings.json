@@ -20,6 +20,7 @@
 
     "Server_Icon": "https://cdn.discordapp.com/attachments/1192086125603455116/1230517174267936818/ezgif-3-16c557b380.gif?ex=66339b6c&is=6621266c&hm=547df96d1e076221585fc6da6c8d2343147eca0a111019296fa2de0f3a619055&"
   },
+  
   "MassSpam_EmbedSettings": {
     "Title_Text": "GOT RAIDED BITCH.",
     "Description_Text": "RAIDED USING BOOMASESVPICI TOOL ;)",
@@ -44,6 +45,7 @@
       }
     ]
   },
+  
   "DirectMessages_EmbedSettings": {
     "Title_Text": "The server you were in, got raided, and you were banned ;)",
     "Description_Text": "GOT RAIDED USING BOOMASESVPICI TOOL ;)",
