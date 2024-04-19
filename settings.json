@@ -1,0 +1,87 @@
+{
+  "_IMPORTANT_WARNING": "DONT ADD OR REMOVE ANYTHING. JUST EDIT ALREADY CREATED VALUES.",
+
+  "ToolSettings": {
+    "_token_comment": "WORKS ONLY WITH BOT TOKENS, NOT USER TOKENS.",
+    "Token": "YOUR BOT TOKEN HERE ;)",
+
+    "_dmsettings_comment": "KEEP ENABLED ONLY 1 SETTING. IF ENABLED MORE THAN 1, IT WONT DO ANYTHING.",
+    "Dm_All_Members_Than_Nothing": "false",
+    "Dm_All_Members_Than_Kick": "false",
+    "Dm_All_Members_Than_Ban": "false",
+
+    "_howmany_comment": "RECOMMENDED TO KEEP IT AROUND *80* FOR FASTEST RESULTS POSSIBLE!",
+    "HowManyChannels": "10",
+    "HowManyRoles": "10",
+
+    "Default_Role_Name": "discord-gg-whn",
+    "Default_Channel_Name": "discord-gg-whn",
+    "Default_Server_Name": "discord.gg/whn",
+
+    "Server_Icon": "https://cdn.discordapp.com/attachments/1192086125603455116/1230517174267936818/ezgif-3-16c557b380.gif?ex=66339b6c&is=6621266c&hm=547df96d1e076221585fc6da6c8d2343147eca0a111019296fa2de0f3a619055&"
+  },
+
+  "MassSpam_EmbedSettings": {
+    "Title_Text": "GOT RAIDED BITCH.",
+    "Title_URL": "https://discord.gg/whn",
+    "Description_Text": "RAIDED USING BOOMASESVPICI TOOL ;)",
+
+    "Author_Text": "</> CLICK ME TO GET THIS TOOL </>",
+    "Author_URL": "https://discord.gg/whn",
+
+    "Footer_Text": "RAIDED BY <BOOMASESVPICI> TOOL MADE BY WHOSDRIX | DISCORD.GG/WHN",
+    "FooterIcon_URL": "https://cdn.discordapp.com/attachments/1192086125603455116/1230517174267936818/ezgif-3-16c557b380.gif?ex=66339b6c&is=6621266c&hm=547df96d1e076221585fc6da6c8d2343147eca0a111019296fa2de0f3a619055&",
+
+    "Thumbnail_URL": "https://cdn.discordapp.com/attachments/1192086125603455116/1230517174267936818/ezgif-3-16c557b380.gif?ex=66339b6c&is=6621266c&hm=547df96d1e076221585fc6da6c8d2343147eca0a111019296fa2de0f3a619055&",
+    "Image_URL": "https://cdn.discordapp.com/attachments/1192086125603455116/1230517174267936818/ezgif-3-16c557b380.gif?ex=66339b6c&is=6621266c&hm=547df96d1e076221585fc6da6c8d2343147eca0a111019296fa2de0f3a619055&",
+
+    "Color": "#5a39b0",
+
+    "Fields": [
+      {
+        "_comment": "First field settings. Leave Title and Description blank, if you dont want field.",
+
+        "Field_Title": "",
+        "Field_Description": ""
+      },
+      {
+        "_comment": "Second field settings. Leave Title and Description blank, if you dont want field.",
+
+        "Field_Title": "",
+        "Field_Description": ""
+      }
+    ]
+  },
+
+  "DirectMessages_EmbedSettings": {
+    "Title_Text": "The server you were in, got raided, and you were banned ;)",
+    "Title_URL": "https://discord.gg/whn",
+    "Description_Text": "GOT RAIDED USING BOOMASESVPICI TOOL ;)",
+
+    "Author_Text": "</> CLICK ME TO GET THIS TOOL </>",
+    "Author_URL": "https://discord.gg/whn",
+
+    "Footer_Text": "RAIDED BY <BOOMASESVPICI> TOOL MADE BY WHOSDRIX | DISCORD.GG/WHN",
+    "FooterIcon_URL": "https://cdn.discordapp.com/attachments/1192086125603455116/1230517174267936818/ezgif-3-16c557b380.gif?ex=66339b6c&is=6621266c&hm=547df96d1e076221585fc6da6c8d2343147eca0a111019296fa2de0f3a619055&",
+
+    "Thumbnail_URL": "https://i.pinimg.com/564x/3f/bd/3f/3fbd3f8c642b7a887e41efdf9ea91bb8.jpg",
+    "Image_URL": "https://i.pinimg.com/564x/3f/bd/3f/3fbd3f8c642b7a887e41efdf9ea91bb8.jpg",
+
+    "Color": "#5a39b0",
+
+    "Fields": [
+      {
+        "_comment": "First field settings. Leave Title and Description blank, if you dont want field.",
+
+        "Field_Title": "",
+        "Field_Description": ""
+      },
+      {
+        "_comment": "Second field settings. Leave Title and Description blank, if you dont want field.",
+
+        "Field_Title": "",
+        "Field_Description": ""
+      }
+    ]
+  }
+}
